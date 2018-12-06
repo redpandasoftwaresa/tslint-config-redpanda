@@ -1,0 +1,15 @@
+{
+  "name": "tslint-config-redpanda",
+  "version": "0.0.1",
+  "description": "Red Panda Software tslint rule set",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yusirydavids",
+  "license": "ISC",
+  "dependencies": {
+    "tslint-consistent-codestyle": "^1.14.1",
+    "tslint-eslint-rules": "^5.4.0",
+    "tslint-microsoft-contrib": "^6.0.0"
+  }
+}
