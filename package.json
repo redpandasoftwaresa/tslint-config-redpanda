@@ -1,6 +1,6 @@
 {
   "name": "tslint-config-redpanda",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Red Panda Software tslint rule set",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
