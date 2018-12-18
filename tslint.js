@@ -69,7 +69,7 @@ module.exports = {
 		'space-in-parens': [true, 'never'], 
 		'array-bracket-spacing': [true, 'never'], 
 		'object-curly-spacing': [true, 'always'], 
-		'max-line-length': [true, 100], 
+		'max-line-length': [true, 150], 
 		'block-spacing': true, 
 		'ter-computed-property-spacing': true, 
 		'ter-func-call-spacing': true, 
